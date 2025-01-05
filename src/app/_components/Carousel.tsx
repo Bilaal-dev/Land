@@ -4,7 +4,7 @@ import dynamic from "next/dynamic";
 import Services from "./Services";
 import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
-import type { Settings } from "react-slick";
+import { Settings } from "react-slick";
 import Image from "next/image";
 
 // Dynamically import Slider to prevent SSR issues
