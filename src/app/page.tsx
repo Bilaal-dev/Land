@@ -1,13 +1,10 @@
 import Nav from "./_components/Nav";
 import Hero from "./_components/Hero";
-import Services from "./_components/Services";
 import LetterOfIntent from "./_components/LetterOfIntent";
 import History from "./_components/History";
 import Manifesto from "./_components/Manifesto";
 import Mission from "./_components/Mission";
 import TheBridge from "./_components/TheBridge";
-import Vote from "./_components/Vote";
-import Footer from "./_components/Footer";
 import Video from "./_components/Video";
 import Carousel from "./_components/Carousel";
 

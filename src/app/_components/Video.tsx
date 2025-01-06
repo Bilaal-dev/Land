@@ -9,7 +9,7 @@ export default function Video() {
 
   useEffect(() => {
     if (videoRef.current) {
-      videoRef.current.play().catch(error => {
+      void videoRef.current.play().catch((error) => {
         console.log("Autoplay prevented:", error);
         setIsPlaying(false);
       });
@@ -27,7 +27,6 @@ export default function Video() {
       setIsPlaying(!isPlaying);
     }
   };
-  
 
   return (
     <section className="relative bg-gradient-to-br from-[#ffefef] via-white to-[#efffef] py-8">
