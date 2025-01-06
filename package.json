@@ -2,7 +2,6 @@
   "name": "landing-page",
   "version": "0.1.0",
   "private": true,
-  
   "scripts": {
     "build": "NEXT_DISABLE_LINT=true next build",
     "check": "next lint && tsc --noEmit",
@@ -43,6 +42,7 @@
     "@types/react-slick": "^0.23.13",
     "@typescript-eslint/eslint-plugin": "^8.1.0",
     "@typescript-eslint/parser": "^8.1.0",
+    "autoprefixer": "^10.4.20",
     "eslint": "^8.57.0",
     "eslint-config-next": "^15.0.1",
     "postcss": "^8.4.39",
