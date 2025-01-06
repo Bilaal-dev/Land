@@ -2,7 +2,7 @@
   "name": "landing-page",
   "version": "0.1.0",
   "private": true,
-  "type": "module",
+  
   "scripts": {
     "build": "NEXT_DISABLE_LINT=true next build",
     "check": "next lint && tsc --noEmit",
