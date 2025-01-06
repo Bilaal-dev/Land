@@ -2,7 +2,6 @@
 
 import { motion } from "framer-motion";
 
-
 export default function LetterOfIntent() {
   return (
     <section className="relative min-h-screen bg-gradient-to-br from-white to-gray-50 py-20 px-4 sm:px-6 lg:px-8">
@@ -42,7 +41,7 @@ export default function LetterOfIntent() {
             transition={{ delay: 0.7 }}
             className="text-sm md:text-base leading-relaxed"
           >
-            Allow me to reignite my journey towards political office with a fundamental belief that has guided my entire career and life: "The beauty of governance is the government that centers around the will of the people." As we stand on the precipice of a new era in our great local government, we must recognize the profound importance of democracy as a beautiful form of government.
+            Allow me to reignite my journey towards political office with a fundamental belief that has guided my entire career and life: &quot;The beauty of governance is the government that centers around the will of the people.&quot; As we stand on the precipice of a new era in our great local government, we must recognize the profound importance of democracy as a beautiful form of government.
           </motion.p>
 
           <motion.p
@@ -60,7 +59,7 @@ export default function LetterOfIntent() {
             transition={{ delay: 1.1 }}
             className="text-sm md:text-base leading-relaxed"
           >
-            For it is in this collective will, this harmonious resonance of our society's voices, that the true power of democracy emerges. In the coming days, together, we shall embark on a journey to ensure that this beautiful form of governance remains vibrant and accountable, as we work hand in hand to forge a brighter future for all. It is imperative that all stakeholders, including the party leadership, political party members, the electorate, and the general public, collectively make a resolute decision.
+            For it is in this collective will, this harmonious resonance of our society&apos;s voices, that the true power of democracy emerges. In the coming days, together, we shall embark on a journey to ensure that this beautiful form of governance remains vibrant and accountable, as we work hand in hand to forge a brighter future for all. It is imperative that all stakeholders, including the party leadership, political party members, the electorate, and the general public, collectively make a resolute decision.
           </motion.p>
 
           <motion.div
@@ -100,10 +99,8 @@ export default function LetterOfIntent() {
             <p className="text-sm md:text-base">I remain yours truly,</p>
             <p className="text-sm md:text-base font-bold">Hon. Setonji Sunday Balogun (SSB)</p>
           </motion.div>
-
-        
         </div>
       </motion.div>
     </section>
   );
-} 
+}

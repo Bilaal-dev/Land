@@ -50,10 +50,10 @@ const Manifesto = () => {
       {/* Introduction */}
       <motion.div variants={fadeInUp} className="mb-8">
         <p className="text-lg mb-4">
-          This manifesto is tagged THE BRIDGE; A pathway to link Badagry to her untapped development potentials.
+          This manifesto is tagged <strong>"THE BRIDGE"</strong>; A pathway to link Badagry to her untapped development potentials.
         </p>
         <p className="text-lg mb-4">
-          My name is Setonji Sunday Balogun and I am proud to come from Badagry. I am also proud of the history, heritage and culture of this ancient city.
+          My name is Setonji Sunday Balogun and I am proud to come from Badagry. I am also proud of the history, heritage, and culture of this ancient city.
         </p>
       </motion.div>
 
@@ -98,7 +98,7 @@ const Manifesto = () => {
           variants={fadeInUp}
           className="text-2xl sm:text-3xl font-bold text-green-700 mt-4"
         >
-          Badagry's best era beckons!
+          Badagry&apos;s best era beckons!
         </motion.p>
       </motion.div>
     </motion.section>

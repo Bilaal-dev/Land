@@ -82,7 +82,7 @@ export default function Economy() {
                 <p>·Phase 1: Develop a digital job portal.</p>
                 <p>·Phase 2: Create entrepreneurship hubs and innovation centres to nurture startups.</p>
                 <p>·Phase 3: Attract investments and foster SME growth.</p>
-                <p>·Phase 4: Identify emerging commercial spot in line with Lagos State' Badagry Master plan to create a conducive environment for business and leisure where people want to shop, live, work and socialize.</p>
+                <p>·Phase 4: Identify emerging commercial spot in line with Lagos State's Badagry Master plan to create a conducive environment for business and leisure where people want to shop, live, work, and socialize.</p>
                 <p>·Phase 5: Identify and attract new investments to positively encourage more employment in Badagry.</p>
                 <p>·Phase 6: Build and improve social facilities within the local council.</p>
                 <p>·Phase 7: Build Badagry modern Agricultural market Hub.</p>
@@ -107,4 +107,4 @@ export default function Economy() {
       </div>
     </div>
   );
-} 
+}

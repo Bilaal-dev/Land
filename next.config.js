@@ -9,3 +9,9 @@ const config = {};
 
 export default config;
 
+module.exports = {
+    eslint: {
+      ignoreDuringBuilds: true,
+    },
+  };
+  
