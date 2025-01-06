@@ -48,7 +48,7 @@ export default function Hero() {
               </p>
               <div className="inline-flex items-center justify-center bg-[#0b4619] text-white w-16 h-16 sm:w-20 sm:h-20 rounded-full text-sm font-bold">
                 <div className="flex flex-col items-center rounded-full">
-                  <Image src="/images/SSB.jpg" alt="logo" width={80} height={80} className="rounded-full object-cover" />
+                <Image src="/images/SSB.jpg" alt="logo" width={80} height={80} className="rounded-full object-cover" />
                 </div>
               </div>
             </div>
